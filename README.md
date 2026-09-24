@@ -46,3 +46,5 @@ To run this project yourself:
 ## ⚠️ Disclaimer
 
 **This chatbot is an educational project and does not provide professional medical advice.** It relies on an AI language model and automated text retrieval. For real medical concerns, emergencies, or severe symptoms, always consult a qualified healthcare provider or seek urgent medical care.
+
+<img width="1174" height="539" alt="Screenshot 2026-09-24 at 6 01 08 PM" src="https://github.com/user-attachments/assets/59bab391-800d-4c06-b861-6491a9800e95" />
